@@ -1,0 +1,37 @@
+{
+    "dataExploration": false,
+    "datasource": {
+        "address": "LocalHost",
+        "database": "aModel",
+        "fullname": "localhost/Model",
+        "id": "localhost_aModel",
+        "live": false,
+        "title": "Model"
+    },
+    "desc": "",
+    "filters": "./filters.json",
+    "hierarchies": [
+    ],
+    "layout": "./layout.json",
+    "oid": "666007978f3e89003facaf57",
+    "settings": {
+        "autoUpdateOnFiltersChange": true
+    },
+    "style": {
+        "palette": {
+            "colors": [
+                "#00cee6",
+                "#9b9bd7",
+                "#6EDA55",
+                "#fc7570",
+                "#fbb755",
+                "#218A8C"
+            ],
+            "name": "Vivid"
+        }
+    },
+    "title": "Model",
+    "widgets": [
+        "./widgets/666007aa8f3e89003facaf59/widget.json"
+    ]
+}

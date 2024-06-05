@@ -1,0 +1,33 @@
+{
+    "buildDestination": {
+        "destination": "elasticube"
+    },
+    "datasets": [
+        "./fb84789f-a4ba-482a-ae0d-6d7469a36e8f/dataset.json"
+    ],
+    "dependencies": {
+        "perspectives": [
+            "./f30bcc52-d590-434d-a507-a219a3b9e594/perspective.json"
+        ]
+    },
+    "experiments": {
+    },
+    "fiscal": "system",
+    "hierarchies": [
+    ],
+    "modelStatistics": {
+        "allTablesPerCollection": true,
+        "enableModelStatistics": true,
+        "maxTablesPerCollection": null,
+        "recollectStatsInterval": null
+    },
+    "oid": "f30bcc52-d590-434d-a507-a219a3b9e594",
+    "relationType": "direct",
+    "relations": "./relations.json",
+    "relationsTables": [
+    ],
+    "schemaId": null,
+    "shouldUpdateScheduleOnManualBuild": null,
+    "title": "Model",
+    "type": "extract"
+}
