@@ -32,6 +32,7 @@
     },
     "title": "Model",
     "widgets": [
-        "./widgets/666007aa8f3e89003facaf59/widget.json"
+        "./widgets/666007aa8f3e89003facaf59/widget.json",
+        "./widgets/666009b38f3e89003facaf5d/widget.json"
     ]
 }

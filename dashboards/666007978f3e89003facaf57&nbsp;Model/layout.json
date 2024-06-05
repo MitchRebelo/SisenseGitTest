@@ -16,15 +16,52 @@
                                         "minWidth": 128,
                                         "widgetid": "666007aa8f3e89003facaf59"
                                     }
+                                ],
+                                "index": 0,
+                                "pxlWidth": 1439,
+                                "stretchable": false,
+                                "width": 100
+                            }
+                        ]
+                    },
+                    {
+                        "subcells": [
+                            {
+                                "elements": [
+                                    {
+                                        "defaultWidth": 512,
+                                        "height": 384,
+                                        "maxHeight": 2048,
+                                        "maxWidth": 2048,
+                                        "minHeight": 96,
+                                        "minWidth": 128,
+                                        "widgetid": "666009b38f3e89003facaf5d"
+                                    }
                                 ]
                             }
                         ]
                     }
                 ],
+                "index": 0,
+                "pxlWidth": 1439,
                 "width": 100
             }
         ],
         "container": {
+            "sizzle1717569815397": {
+                "undefined": {
+                    "legend": [
+                        31,
+                        0,
+                        false
+                    ],
+                    "parentNode": [
+                        76.00172273363914,
+                        21,
+                        true
+                    ]
+                }
+            }
         },
         "instanceid": "40930-D497-1B",
         "type": "columnar"
